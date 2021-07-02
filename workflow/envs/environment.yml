@@ -9,3 +9,7 @@ dependencies:
   - jupyterlab
   - matplotlib
   - pandas
+  - pandas-datareader
+  - beautifulsoup4
+  - scikit-learn
+  - numpy
