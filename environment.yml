@@ -1,4 +1,4 @@
-name: null
+name: finance_projects
 
 channels:
   - conda-forge
@@ -6,10 +6,12 @@ channels:
 
 dependencies:
   - python = 3.9
-  - jupyterlab
-  - matplotlib
   - pandas
   - pandas-datareader
   - beautifulsoup4
   - scikit-learn
-  - numpy
+  - jupyterlab
+  - matplotlib
+  - mplfinance
+  - pytest
+  - requests
